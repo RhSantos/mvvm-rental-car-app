@@ -1,7 +1,7 @@
-# 📱 EaseCar : Rental Car App
+# 📱 EaseCar : Rental Car App **PORTIFOLIO**
 
 ## ℹ️ About the APP
-A simple app to rent a car.
+A simple app to rent a car for my portifolio.
 
 ## 🚀 Features
 - Find a vehicle to Rent.
